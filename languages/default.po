@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: r\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-19 22:23+0100\n"
+"PO-Revision-Date: 2012-01-19 22:23+0100\n"
+"Last-Translator: Rule Communication <info@rule.se>\n"
+"Language-Team: r <info@rule.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:38
+#: rulemailer_subscribe.php:38
+msgid "RuleMailer Username"
+msgstr "RuleMailer Username"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:39
+#: rulemailer_subscribe.php:39
+msgid "RuleMailer Password"
+msgstr "RuleMailer Password"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:40
+#: rulemailer_subscribe.php:40
+msgid "RuleMailer account url (incl http://)"
+msgstr "RuleMailer account url (incl http://)"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:41
+#: rulemailer_subscribe.php:41
+msgid "Subscribe success message"
+msgstr "Subscribe success message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:42
+#: rulemailer_subscribe.php:42
+msgid "Subscribe confirmation pending message"
+msgstr "Subscribe confirmation pending message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:43
+#: rulemailer_subscribe.php:43
+msgid "Unsubscribe success message"
+msgstr "Unsubscribe success message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:44
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:47
+#: rulemailer_subscribe.php:44
+#: rulemailer_subscribe.php:47
+msgid "\"Invalid email address format\" error message"
+msgstr "\"Invalid email address format\" error message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:45
+#: rulemailer_subscribe.php:45
+msgid "\"Email address already exists in the target list\" error message"
+msgstr "\"Email address already exists in the target list\" error message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:46
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:49
+#: rulemailer_subscribe.php:46
+#: rulemailer_subscribe.php:49
+msgid "\"Invalid email address\" error message"
+msgstr "\"Invalid email address\" error message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:48
+#: rulemailer_subscribe.php:48
+msgid "\"Email address doesn't exist in the list\" error message"
+msgstr "\"Email address doesn't exist in the list\" error message"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:58
+#: rulemailer_subscribe.php:58
+msgid "Allow users to subscribe to your newsletters"
+msgstr "Allow users to subscribe to your newsletters"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:122
+#: rulemailer_subscribe.php:122
+msgid "Title:"
+msgstr "Title:"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:133
+#: rulemailer_subscribe.php:133
+msgid "Target subscribers list:"
+msgstr "Target subscribers list:"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:178
+#: rulemailer_subscribe.php:178
+msgid "No custom fields available."
+msgstr "No custom fields available."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:213
+#: rulemailer_subscribe.php:213
+msgid "There are no subscriber lists available. Please create one in RuleMailer"
+msgstr "There are no subscriber lists available. Please create one in RuleMailer"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:232
+#: rulemailer_subscribe.php:232
+msgid "Allow unsubscribe"
+msgstr "Allow unsubscribe"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:234
+#: rulemailer_subscribe.php:234
+msgid "Custom fields:"
+msgstr "Custom fields:"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:235
+#: rulemailer_subscribe.php:235
+msgid "Select custom fields which will be shown on frontend."
+msgstr "Select custom fields which will be shown on frontend."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:256
+#: rulemailer_subscribe.php:256
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:261
+#: rulemailer_subscribe.php:261
+msgid "After saving of these options go to theme widgets to enable and configure your subscribe form"
+msgstr "After saving of these options go to theme widgets to enable and configure your subscribe form"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:283
+#: rulemailer_subscribe.php:283
+msgid "Save changes"
+msgstr "Save changes"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:302
+#: rulemailer_subscribe.php:302
+msgid "Congratulations! Connection credentials are valid."
+msgstr "Congratulations! Connection credentials are valid."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:305
+#: rulemailer_subscribe.php:305
+msgid "Connection credentials are not valid. Please review and correct."
+msgstr "Connection credentials are not valid. Please review and correct."
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:454
+#: rulemailer_subscribe.php:454
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:457
+#: rulemailer_subscribe.php:457
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:463
+#: rulemailer_subscribe.php:463
+msgid "Submit"
+msgstr "Submit"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:539
+#: rulemailer_subscribe.php:539
+msgid "Successfully subscribed"
+msgstr "Successfully subscribed"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:540
+#: rulemailer_subscribe.php:540
+msgid "Please check your inbox to confirm subscription"
+msgstr "Please check your inbox to confirm subscription"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:541
+#: rulemailer_subscribe.php:541
+msgid "Successfully unsubscribed"
+msgstr "Successfully unsubscribed"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:544
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:549
+#: rulemailer_subscribe.php:544
+#: rulemailer_subscribe.php:549
+msgid "Invalid email address format"
+msgstr "Invalid email address format"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:545
+#: rulemailer_subscribe.php:545
+msgid "Email address already exists in the target list"
+msgstr "Email address already exists in the target list"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:546
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:551
+#: rulemailer_subscribe.php:546
+#: rulemailer_subscribe.php:551
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:550
+#: rulemailer_subscribe.php:550
+msgid "Email address doesn't exist in the list"
+msgstr "Email address doesn't exist in the list"
+
+#: /Applications/XAMPP/xamppfiles/htdocs/wp/wp-content/plugins/rulemailer/rulemailer_subscribe.php:700
+#: rulemailer_subscribe.php:700
+msgid "RuleMailer credentials are incorrect"
+msgstr "RuleMailer credentials are incorrect"
+
